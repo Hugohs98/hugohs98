@@ -1,7 +1,7 @@
 <h1 align="center" text-align="center">
-<img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="70">  
-Hello! Hugo Silva here! 
-<img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="70">
+<img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="80">  
+👋 Hello! Hugo Silva here! 
+<img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="80">
 </h1>
 
 <!--
@@ -37,16 +37,12 @@ Here are some ideas to get you started:
 </section>
 
 <br />
-<h1 align="left">Connect with me</h1>
-
-
-<section align="center">
-  
-<a href="https://www.linkedin.com/in/hugo-silva-2bb757210/"><img align="left" alt="Linkedin" title=Linkedin target="_blank" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-
-<a href="https://www.instagram.com/hugohsilva/"><img align="left" alt="Instagram" title="instagram" target="_blank" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</section>
-  
+<h1 align="center">Connect with me</h1>
+<div >
+<a href="https://www.instagram.com/hugohsilva/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.twitch.tv/hugiii_" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/hugo-silva-2bb757210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
 <br /> <br /> 
   
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hugohs98&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
