@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 ![Snake animation](https://github.com/hugohs98/hugohs98/blob/output/github-contribution-grid-snake.svg)
 
 <div align="center">
-<img align="left" src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
-<img align="center" src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
-<img align="center" src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
-<img align="center" src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
-<img align="center" src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
-<img align="right" src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
+<img src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
+<img src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
+<img src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
+<img src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
+<img src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
+<img src="https://media.giphy.com/media/UWP85RaQsrgR5ncUPs/giphy.gif" width="130">
 </div>
