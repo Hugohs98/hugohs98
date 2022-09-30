@@ -59,6 +59,5 @@ Here are some ideas to get you started:
 <img src="https://media.giphy.com/media/89xtlBTJ49uNE7Zn5w/giphy.gif" width="130">
 <img src="https://media.giphy.com/media/89xtlBTJ49uNE7Zn5w/giphy.gif" width="130">
 <img src="https://media.giphy.com/media/89xtlBTJ49uNE7Zn5w/giphy.gif" width="130">
-<img src="https://media.giphy.com/media/89xtlBTJ49uNE7Zn5w/giphy.gif" width="130">
 
 </div>
