@@ -1,7 +1,7 @@
 <h1 align="center" text-align="center">
-<img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="80">  
-👋 Hello! Hugo Silva here! 
-<img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="80">
+<img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="75">  
+👋 Hello world! Hugo Silva here! 
+<img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="75">
 </h1>
 
 <!--
