@@ -4,20 +4,11 @@
 <img src="https://media.giphy.com/media/ghCX1B38YFXAwttIkg/giphy.gif" width="75">
 </h1>
 
-<!--
-**Hugohs98/hugohs98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌱 I’m currently learning Java
+- 📫 How to reach me: hugohsilva_@hotmail.com
+- 😄 Pronouns: he/him
 
 <div>
 <img alogn="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hugohs98&show_icons=true&theme=dark">
@@ -38,7 +29,9 @@ Here are some ideas to get you started:
   
 <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white">
   
-<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">  
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white">
+
+<img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
 
 </section>
 
