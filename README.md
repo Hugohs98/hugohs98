@@ -5,6 +5,7 @@
 </h1>
 
 
+<img src="https://komarev.com/ghpvc/?username=hugohs98&style=flat-square&color=red" alt="views"/>
 
 - 🌱 I’m currently learning Java
 - 📫 How to reach me: hugohsilva_@hotmail.com
