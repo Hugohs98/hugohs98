@@ -45,9 +45,6 @@
 </div>
 <br /> <br /> 
   
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=hugohs98&theme=xcode)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-<br /> 
 
 ![Snake animation](https://github.com/hugohs98/hugohs98/blob/output/github-contribution-grid-snake.svg)
 
