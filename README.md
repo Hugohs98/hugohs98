@@ -12,8 +12,8 @@
 - 😄 Pronouns: he/him
 
 <div>
-<img alogn="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hugohs98&show_icons=true&theme=dark">
-<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohs98&layout=compact&theme=dark">
+<img alogn="left" width="47%" src="https://github-readme-stats.vercel.app/api?username=hugohs98&count_private=true&show_icons=true&theme=dark">
+<img align="right" width="47%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugohs98&count_private=true&layout=compact&theme=dark">
 </div> 
 
 
